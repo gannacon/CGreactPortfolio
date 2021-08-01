@@ -1,8 +1,12 @@
 import React from "react";
+import hw1 from "./assets/images/htmlcsshw1.png";
+import lsaweb from "./assets/images/lsaweb.png";
+import javascript from "./assets/images/javascript.png";
+import project2 from "./assets/images/Project2.png";
 
 export default function Blog() {
   return (
-    <div className="allproj">
+    <div>
       <h1 id="whitework">My Work</h1>
       <div className="allproj">
         <div className="projectcard p1">
@@ -12,10 +16,7 @@ export default function Blog() {
             target="_blank"
             rel="noreferrer"
           >
-            <img
-              src="./assets/images/htmlcsshw1.png"
-              alt="screen grab of first homework"
-            ></img>
+            <img src={hw1} alt="screen grab of first homework"></img>
           </a>
           <p>
             <h3>
@@ -44,10 +45,7 @@ export default function Blog() {
             target="_blank"
             rel="noreferrer"
           >
-            <img
-              src="./assets/images/screenshot copy.png"
-              alt="lsa website screen grab"
-            ></img>
+            <img src={lsaweb} alt="lsa website screen grab"></img>
           </a>
           <p>
             <h3>
@@ -79,10 +77,7 @@ export default function Blog() {
             target="_blank"
             rel="noreferrer"
           >
-            <img
-              src="./assets/images/javascript.png"
-              alt="javascript quiz"
-            ></img>
+            <img src={javascript} alt="javascript quiz"></img>
           </a>
           <p>
             <h3>
@@ -103,13 +98,13 @@ export default function Blog() {
           </a>
         </div>
         <div className="projectcard p4">
-          <h2> HOMEWORK 4 - QUIZ</h2>
+          <h2>PROJECT 2</h2>
           <a
             href="https://abc-myteam.herokuapp.com/login"
             target="_blank"
             rel="noreferrer"
           >
-            <img src="./assets/images/Project2.png" alt="Project2"></img>
+            <img src={project2} alt="Project2"></img>
           </a>
           <p>
             <h3>
