@@ -1,4 +1,5 @@
 import React from "react";
+import portrait from "./assets/images/portrait.jpg";
 
 export default function Home() {
   return (
@@ -13,7 +14,7 @@ export default function Home() {
         </p>
       </div>
       <div class="column2">
-        <img src="./assets/images/portrait.jpg" alt="Portrait of Connor"></img>
+        <img src={portrait} alt="Portrait of Connor"></img>
       </div>
     </div>
   );
