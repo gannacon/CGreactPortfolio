@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/CGreactPortfolio/static/css/main.83418ee7.chunk.css",
+    "main.js": "/CGreactPortfolio/static/js/main.53d12a10.chunk.js",
+    "main.js.map": "/CGreactPortfolio/static/js/main.53d12a10.chunk.js.map",
+    "runtime-main.js": "/CGreactPortfolio/static/js/runtime-main.db135135.js",
+    "runtime-main.js.map": "/CGreactPortfolio/static/js/runtime-main.db135135.js.map",
+    "static/js/2.502db00b.chunk.js": "/CGreactPortfolio/static/js/2.502db00b.chunk.js",
+    "static/js/2.502db00b.chunk.js.map": "/CGreactPortfolio/static/js/2.502db00b.chunk.js.map",
+    "index.html": "/CGreactPortfolio/index.html",
+    "static/css/main.83418ee7.chunk.css.map": "/CGreactPortfolio/static/css/main.83418ee7.chunk.css.map",
+    "static/js/2.502db00b.chunk.js.LICENSE.txt": "/CGreactPortfolio/static/js/2.502db00b.chunk.js.LICENSE.txt",
+    "static/media/Project2.925fd5ab.png": "/CGreactPortfolio/static/media/Project2.925fd5ab.png",
+    "static/media/Resume.5d2bad61.pdf": "/CGreactPortfolio/static/media/Resume.5d2bad61.pdf",
+    "static/media/htmlcsshw1.6fbad705.png": "/CGreactPortfolio/static/media/htmlcsshw1.6fbad705.png",
+    "static/media/javascript.bd0611a1.png": "/CGreactPortfolio/static/media/javascript.bd0611a1.png",
+    "static/media/lsaweb.2560ed48.png": "/CGreactPortfolio/static/media/lsaweb.2560ed48.png",
+    "static/media/portrait.e6f6b430.jpg": "/CGreactPortfolio/static/media/portrait.e6f6b430.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db135135.js",
+    "static/js/2.502db00b.chunk.js",
+    "static/css/main.83418ee7.chunk.css",
+    "static/js/main.53d12a10.chunk.js"
+  ]
+}
